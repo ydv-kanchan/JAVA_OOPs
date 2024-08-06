@@ -62,7 +62,9 @@ public class define_ClassAndObjects {
         2. IDENTITY OF OBJECT: how one object is different from other objects. example: where the value of the object is stored in memory?
         3. BEHAVIOUR OF OBJECT: effect of data type variables
         */
-        class Student {
+class Student {
+            
+    // a file named Student.class will be shown in the folder because we have created an class
             int roll_no;
             String name;
             float marks;
